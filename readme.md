@@ -1,2 +1,2 @@
-# ajowoteam.xyz
-Website for the AjowoTeam website.
+# ajowoteam.com
+Website for AjowoTeam.
